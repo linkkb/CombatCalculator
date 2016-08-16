@@ -1,0 +1,4 @@
+Name Value Weight
+rations 40 7
+rope 40 1
+torch 2 1

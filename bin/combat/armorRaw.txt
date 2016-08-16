@@ -1,0 +1,15 @@
+Name AC MaxDex
+//none
+none 0 0
+//cloth
+aketon 1 2
+gambeson 2 1
+//leather
+cuirass 2 4
+jack 3 2
+//scale
+scaleshirt 4 1
+scalecoat 5 0
+//mail
+byrnie 4 3
+hauberk 6 2

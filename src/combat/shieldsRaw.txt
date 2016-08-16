@@ -1,0 +1,7 @@
+Name MAC RAC MaxDex
+none 0 0 0
+cloak 1 0 0
+small 2 2 5
+medium 3 4 3
+large 4 8 2
+tower 6 12 0
